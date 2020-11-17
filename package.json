@@ -1,0 +1,11 @@
+{
+  "name": "coreframe",
+  "version": "1.0.0",
+  "description": "An easier way to do basic and complicated javascript commands.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Waveclaw18",
+  "license": "ISC"
+}
